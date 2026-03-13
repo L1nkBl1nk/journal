@@ -1,0 +1,11 @@
+header{
+  display: flex;
+  background-color: #F55A5A;
+  justify-content: center;
+}
+
+header *{
+    margin-right: 7px ;
+    font-weight: 500;
+}
+

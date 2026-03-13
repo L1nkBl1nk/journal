@@ -1,0 +1,19 @@
+.journal-entry{
+    display: flex;
+    margin-bottom: 36px;
+}
+
+.main-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.main-image-container{
+    width: 125px;
+    height: 168px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-right: 19px ;
+}
